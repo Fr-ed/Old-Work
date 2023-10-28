@@ -17,3 +17,6 @@ function printRandom1() {
 
 // Example usage
 printRandom();
+
+// Example usage
+printRandom()*2;
